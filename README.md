@@ -2,3 +2,5 @@
 Calculadora semi científica desenvolvida para aula de Desenvolvimento de aplicativos junto com o João Gabriel da Mata.
 
 Desenvolvida com HTML, CSS e JavaScript.
+
+Referêcia do código: https://codepen.io/dougjuliao/pen/XWxppj.
